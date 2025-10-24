@@ -137,7 +137,3 @@ session.headers.update({"User-Agent": "Crawler/1.0"})
 
 **Ghostting** — [bugcrowdninja.com](https://bugcrowdninja.com)
 Custom crawler for ethical reconnaissance.
-
----
-
-Would you like me to include a **section for building a standalone executable (via PyInstaller)** or a **Docker usage section**? I can extend the README accordingly.
